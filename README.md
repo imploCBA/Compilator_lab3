@@ -9,8 +9,7 @@ name = {'a':'f', 'e':'w'};
 name = {'a':'f', 6:'2qr'};
 
 ### граф конечного автомата
-![image](https://github.com/imploCBA/Compilator_lab3/assets/60794005/7a775ce1-b204-4543-92b0-16966304b73b)
-
+![photo_2024-05-27_09-03-03](https://github.com/imploCBA/Compilator_lab3/assets/60794005/211a1648-1b94-4d20-ab1b-be851ed8e09f)
 
 ### Вариант задания
 name = {'dss':'gas', 2:'fra', 'fd':'we'};
