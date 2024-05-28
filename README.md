@@ -9,8 +9,8 @@ name = {'a':'f', 'e':'w'};
 name = {'a':'f', 6:'2qr'};
 
 ### Грамматика
-ID -> letter IDREM<br>
-IDREM -> letter IDREM | digit IDREM | "=" OPEN<br>
+1.ID -> letter IDREM<br>
+2.IDREM -> letter IDREM | digit IDREM | "=" OPEN<br>
 
 
 
