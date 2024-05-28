@@ -9,7 +9,9 @@ name = {'a':'f', 'e':'w'};
 name = {'a':'f', 6:'2qr'};
 
 ### Грамматика
-ID -> <br> DS
+ID -> letter IDREM<br>
+IDREM -> letter IDREM | digit IDREM | "=" OPEN<br>
+
 
 
 ### Граф конечного автомата
