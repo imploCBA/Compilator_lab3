@@ -9,9 +9,13 @@ name = {'a':'f', 'e':'w'};
 name = {'a':'f', 6:'2qr'};
 
 ### Грамматика
-1. ID -> letter IDREM<br>
-2. IDREM -> letter IDREM | digit IDREM | "=" OPEN<br>
-
+1. ID -> letter IDREM
+2. IDREM -> letter IDREM | digit IDREM | "=" OPEN
+3. OPEN -> "{" KEY
+4. KEY -> digit KEYDIGIT | "'" OPENKEYQUOT
+5. OPENKEYQUOT -> letter KEYSTRING
+6. KEYSTRING -> letter KEYSTRING | "'" CLOUSEKEYQUOT
+7. 
 
 
 ### Граф конечного автомата
