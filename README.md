@@ -31,4 +31,4 @@ name = {'a':'f', 6:'2qr'};
 
 
 ### Тестовый пример
-name = {'dss':'gas', 2:'fra', 'fd':'we'};
+name = {'dss':'gas', 2:'fra', 'fd':3, 5:32};
